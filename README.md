@@ -1,8 +1,8 @@
-# UniverseSurvivor
+# Sudoku Generator
 
-Technical support for "Universe Survivor"
+Technical support for "Sudoku Generator"
 
-We will provide technical support for this app（Universe Survivor）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: universesurvivordev@gmail.com
+We will provide technical support for this app（Sudoku Generator）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: SudokuGenerator128@gmail.com
 
 
 Privacy Policy
